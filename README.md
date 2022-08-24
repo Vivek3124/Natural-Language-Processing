@@ -1,6 +1,5 @@
 # Spam Classification
-## Designed a spam filtering based on Naive Bayes classifier. Implemented for both multinomial and multivariate Naive Bayes
-classifier versions.
+## Designed a spam filtering based on Naive Bayes classifier. Implemented for both multinomial and multivariate Naive Bayes classifier versions.
 
 ### The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574
 messages, tagged according to being ham (legitimate) or spam. It has a total of 4,827 SMS legitimate messages (86.6%) and a total of 747 (13.4%) spam
